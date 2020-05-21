@@ -6,4 +6,4 @@
 <h1>初めてのHTML</h3>
 HTMl文書って、変更するのも簡単です。
 </body>
-</html>
+</HTML>
