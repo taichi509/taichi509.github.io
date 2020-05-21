@@ -2,8 +2,8 @@
 <HEAD>
 <TITLE>練習その1</TITLE>
 </HEAD>
-<BODY>
+<body>
 <h1>初めてのHTML</h1>
 HTMl文書って、変更するのも簡単です。
-</BODY>
+</body>
 </HTML>
