@@ -1,8 +1,10 @@
-# taichi509.github.io
+
 <HTML>
- <HEAD>cl2020</HEAD>
+ <HEAD>
+  <TITLE>練習その1</TITLE>
+ </HEAD>
  <body>
-  <H3>初めてのホームページ</H3>
-  <p>こんにちは正久太一です。</p>
+  <h1>初めてのHTML</H3>
+  HTMl文書って、カギかっこがやたら多いと思いませんか？
  </BODY>
 </HTML>
